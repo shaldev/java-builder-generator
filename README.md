@@ -20,7 +20,7 @@ Also you can use composite data types like String, List\<String\>, List\<Integer
 ## Example model
 
 ```python
-package = 'test'
+package = 'example'
 model = {
   'user' : {
       'name' : 'str',
